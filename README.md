@@ -3,15 +3,15 @@ This project is a simple full-stack web application built using FastAPI, a moder
 
 
 
-fastapi-website/
-│
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── templates/
-│   │   └── index.html
-│   └── static/
-│       ├── style.css
-│       └── script.js
-├── requirements.txt
-└── run.py
+fastapi-website/<br>
+        │<br>
+        ├── app/<br>
+        │   ├── __init__.py<br>
+        │   ├── main.py<br>
+        │   ├── templates/<br>
+        │   │   └── index.html<br>
+        │   └── static/<br>
+        │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── style.css<br>
+        │       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── script.js<br>
+        ├── requirements.txt<br>
+        └── run.py
